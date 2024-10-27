@@ -63,7 +63,3 @@ To set up the hardware, follow these connections:
 3. **View placement details** on the LCD, which displays the rack, row, and segment for each book.
 4. The LCD will display "Unknown ID" if an unregistered tag is scanned.
 5. Use the serial monitor to see additional debug information on book placements.
-
-## License
-
-This project is licensed under the MIT License. Feel free to modify and distribute as needed.
